@@ -2,7 +2,15 @@
 Numpy Windows wheel builder
 ###########################
 
-**No longer maintained. This is the wrong repo, do not use it.**
+No longer maintained
+~~~~~~~~~~~~~~~~~~~~
+
+**This is the wrong repo, do not use it.**
+
+numpy Windows wheel builds were migrated to https://github.com/MacPython/numpy-wheels
+
+Original README (archived)
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Build numpy wheels with MSVC and pre-built ATLAS binaries.
 
